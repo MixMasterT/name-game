@@ -22,7 +22,7 @@ class HelloWorld extends React.Component {
 
     return (
       <div>
-        <h1>Hello World!</h1>
+        <h1>Hello World, I love you!</h1>
         <p>Timestamp: {timestamp}</p>
       </div>
     );
