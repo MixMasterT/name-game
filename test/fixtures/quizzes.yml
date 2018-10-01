@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  type: 
+  elapsed_time: 1
+  user: one
+  score: 1.5
+
+two:
+  id: 
+  type: 
+  elapsed_time: 1
+  user: two
+  score: 1.5

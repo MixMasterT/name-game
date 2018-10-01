@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  user: one
+  quiz: one
+  guess: MyString
+  was_successful: false
+
+two:
+  id: 
+  user: two
+  quiz: two
+  guess: MyString
+  was_successful: false

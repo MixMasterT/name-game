@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  delay: 1
+  user: one
+  photo: one
+  quiz: one
+  was_successful: false
+
+two:
+  id: 
+  delay: 1
+  user: two
+  photo: two
+  quiz: two
+  was_successful: false
