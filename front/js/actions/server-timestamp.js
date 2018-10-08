@@ -16,8 +16,7 @@ const serverTimestampUpdate = (timestamp) => {
 
 export const fetchServerTimestamp = () => async (dispatch) => {
   try {
-    const res = await axios.get('/home/timestamp');
-
+    const res = await axios.get('/api/timestamp');
     dispatch(serverTimestampUpdate(res.data.timestamp));
   } catch (error) {
     log.error(error);
